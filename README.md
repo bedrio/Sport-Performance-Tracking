@@ -1,7 +1,7 @@
 # Deadlift Form Performance Tracker
-Sports Performance Tracking: project for Spring 2022 CSE 598 Perception in Robotics
+Sports Performance Tracking project for Spring 2022 CSE 598 Perception in Robotics
 
-[Demo video](https://youtu.be/UMo1DXSu5yI)
+### [Demo video](https://youtu.be/UMo1DXSu5yI)
 
 Two Cameras are calibrated by taking several pictures of black and white checkerboard boxes. These calibrated cameras are then used to capture video of a person performing the deadlift from both a front and a side view. In real-time, the cameras provide a live feed to the program, which is formatted and handled by OpenCV.
 
